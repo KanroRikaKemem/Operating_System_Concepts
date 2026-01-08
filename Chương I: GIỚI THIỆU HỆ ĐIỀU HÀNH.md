@@ -16,6 +16,7 @@
     - Hệ điều hành: Điều phối việc sử dụng phần cứng.
     - Chương trình ứng dụng: Giải quyết bài toán của user (Trình soạn thảo, trình duyệt trò chơi,...)
     - User: Con người, máy tính khác hoặc thiết bị.
+
 ![image](https://hackmd.io/_uploads/Sk8LIeaEWl.png)
 
 ### 2. User View:
@@ -54,6 +55,7 @@
 - Chương trình duy nhất luôn chạy trên máy tính.
 - Gồm chương trình hệ thống hoặc ứng dụng bên ngoài.
 - Lớp phần mềm giao tiếp trực tiếp nhất với phần cứng.
+
 ![image](https://hackmd.io/_uploads/SyXMiea4bl.png)
 
 ## Phần II: Tổ chức hệ thống máy tính:
@@ -61,18 +63,21 @@
 - Một hoặc nhiều CPU và các bộ điều khiển thiết bị.
 - Kết nối qua một BUS chung.
 - CPU và các thiết bị chạy song song, cạnh tranh bộ nhớ.
+
 ![image](https://hackmd.io/_uploads/HyQmhgpV-l.png)
 
 ### 2. Chương trình Bootstrap:
 - Lưu trữ trọng ROM hoặc EEPROM (Firmware).
 - Tìm kiếm và nạp nhân hệ điều hành vào bộ nhớ.
 - Khởi tạo thanh ghi, bộ điều khiển, bộ nhớ.
+
 ![image](https://hackmd.io/_uploads/Skz3hlT4Ze.png)
 
 ### 3. Cơ chế Ngắt (Interrupt):
 - Sự kiện thường được báo hiệu bằng Ngắt.
 - Phần cứng gửi tín hiệu đến CPU qua BUS hệ thống.
 - Nền tảng để OS chuyển đổi giữa các tác vụ.
+
 ![image](https://hackmd.io/_uploads/rJ-X6xp4Wl.png)
 
 #### Quá trình xử lý ngắt:
