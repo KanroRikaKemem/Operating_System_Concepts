@@ -12,12 +12,12 @@
 - Cung cấp nền tảng cho các ứng dụng.
 - Đóng vai trò trung gian giữa người dùng và phần cứng.
 - Các thành phần chính:
-    ![image](https://hackmd.io/_uploads/Sk8LIeaEWl.png)
-  
     - Phần cứng: CPU, bộ nhớ, thiết bị I/O,...
     - Hệ điều hành: Điều phối việc sử dụng phần cứng.
     - Chương trình ứng dụng: Giải quyết bài toán của user (Trình soạn thảo, trình duyệt trò chơi,...)
     - User: Con người, máy tính khác hoặc thiết bị.
+
+![image](https://hackmd.io/_uploads/Sk8LIeaEWl.png)
 
 ### 2. User View:
 #### PC và Workstation:
