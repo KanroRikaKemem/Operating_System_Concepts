@@ -17,7 +17,7 @@
     - Chương trình ứng dụng: Giải quyết bài toán của user (Trình soạn thảo, trình duyệt trò chơi,...)
     - User: Con người, máy tính khác hoặc thiết bị.
 
-![image](https://hackmd.io/_uploads/Sk8LIeaEWl.png)
+    ![image](https://hackmd.io/_uploads/Sk8LIeaEWl.png)
 
 ### 2. User View:
 #### PC và Workstation:
