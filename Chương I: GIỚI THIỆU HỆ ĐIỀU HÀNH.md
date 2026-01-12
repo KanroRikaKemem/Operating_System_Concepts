@@ -17,7 +17,7 @@
 - Mục tiêu:
     - Giúp user dễ dàng sử dụng hệ thống.
     - Quản lý và cấp phát tài nguyên hệ thống một cách hiệu quả.
-#### b) ấu trúc hệ thống máy tính:
+#### b) Cấu trúc hệ thống máy tính:
 ![image](https://hackmd.io/_uploads/Sk8LIeaEWl.png)
 - Phần cứng: CPU, bộ nhớ, thiết bị I/O,...
 - Hệ điều hành: Phân phối tài nguyên, điều khiển và phối hợp các hoạt động của các chương trình trong hệ thống.
